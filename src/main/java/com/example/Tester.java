@@ -24,7 +24,7 @@ public class Tester extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Welcome to the Servlet");
+		response.getWriter().append("index.html");
 	}
 
 	/**
